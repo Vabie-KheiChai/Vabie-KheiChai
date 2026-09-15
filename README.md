@@ -14,7 +14,7 @@ I enjoy learning new technologies, solving programming problems, and turning ide
 - 🏫 **Sharda University, India**
 - 📚 Currently in **3rd Year**
 - 💻 Aspiring **Full-Stack Developer**
-- ⚛️ Learned **React**
+- ⚛️ Experienced with **React**
 - ☕ Currently strengthening my **Java** fundamentals
 - 🧠 Practicing **Data Structures & Algorithms**
 - 🚀 Building practical and real-world projects
@@ -27,15 +27,15 @@ I enjoy learning new technologies, solving programming problems, and turning ide
 <p align="center">
 
 <a href="https://www.linkedin.com/in/vabie-khei-chai-a43698310/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
+  <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
 <a href="https://github.com/Vabie-KheiChai" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
 </a>
 
 <a href="mailto:vabiekheichai0@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
 </a>
 
 </p>
@@ -56,7 +56,7 @@ I enjoy learning new technologies, solving programming problems, and turning ide
 <img src="https://skillicons.dev/icons?i=java" />
 </p>
 
-### 🔧 Tools & Technologies
+### 🔧 Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
@@ -66,7 +66,7 @@ I enjoy learning new technologies, solving programming problems, and turning ide
 
 ## 🚀 Projects I've Built
 
-### 🛒 E-Commerce Project
+### 🛒 E-Commerce Website
 
 A web-based e-commerce application developed to practice frontend development and create a practical online shopping experience.
 
@@ -87,18 +87,6 @@ A student management application designed to manage and organize student-related
 An interactive flashcard application created to practice frontend development and build a simple learning experience.
 
 **Technologies:** React, JavaScript, HTML, CSS
-
----
-
-## 📚 Currently Learning
-
-- ☕ Java
-- 🧠 Data Structures & Algorithms
-- 💻 Object-Oriented Programming
-- ⚛️ React
-- 🌐 Full-Stack Development
-- 🗄️ Backend Development
-- 🔧 Git & GitHub
 
 ---
 
@@ -156,39 +144,68 @@ I'm currently following a structured **30-day Java learning journey** to strengt
 🎯 Future Goal
 │
 └── Become a skilled Full-Stack Developer
+```
 
+---
 
+## 📊 GitHub Statistics
 
-💡 What I'm Learning
-Area	Current Focus
-☕ Programming	Java
-🌐 Frontend	HTML, CSS, JavaScript, React
-🧠 DSA	Arrays, Loops, Problem Solving
-🗄️ Backend	Learning & Exploring
-🔧 Tools	Git, GitHub, VS Code
-🎓 Education	B.Tech IT — 3rd Year
-📌 My Goals
-☕ Master Java fundamentals
-🧠 Improve DSA and problem-solving skills
-⚛️ Become stronger in React
-🗄️ Learn backend development
-🚀 Build full-stack applications
-🌍 Contribute to open-source projects
-💻 Build production-quality projects
-🎯 Become a skilled Full-Stack Developer
-🔥 Current Focus
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Vabie-KheiChai&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=github" 
+    height="180"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vabie-KheiChai&layout=compact&hide_border=true&langs_count=6" 
+    height="180"
+  />
+</p>
 
-Learn → Practice → Build → Improve
+---
 
-Currently, I am focusing on Java, Data Structures & Algorithms, React, Git & GitHub, and Full-Stack Development while continuously building projects and improving my software development skills.
+## 🔥 GitHub Streak
 
-🎓 Education
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com/?user=Vabie-KheiChai&hide_border=true&mode=weekly" 
+    height="180"
+  />
+</p>
 
-B.Tech (Information Technology) — 3rd Year
-Sharda University, India
+---
 
-🤝 Let's Connect
+## 💡 Current Focus
 
-I'm always interested in learning, collaborating, and building meaningful projects with other developers.
+| Area | Current Focus |
+|------|---------------|
+| ☕ Programming | Java |
+| 🌐 Frontend | HTML, CSS, JavaScript, React |
+| 🧠 DSA | Arrays, Loops, Problem Solving |
+| 🗄️ Backend | Learning & Exploring |
+| 🔧 Tools | Git, GitHub, VS Code |
+| 🎓 Education | B.Tech IT — 3rd Year |
 
-Thank you for visiting my profile! 🚀
+---
+
+## 📌 Goals
+
+- ☕ Master Java fundamentals
+- 🧠 Improve DSA and problem-solving skills
+- ⚛️ Become stronger in React
+- 🗄️ Learn backend development
+- 🚀 Build full-stack applications
+- 🌍 Contribute to open-source projects
+- 💻 Build production-quality projects
+- 🎯 Become a skilled Full-Stack Developer
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in **learning, collaborating, and building meaningful projects** with other developers.
+
+Feel free to explore my repositories and follow my journey as I continue growing as a developer.
+
+### 🚀 Learn → Practice → Build → Improve
+
+**Thank you for visiting my profile!** ⭐
