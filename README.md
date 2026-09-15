@@ -158,10 +158,7 @@ I'm currently following a structured **30-day Java learning journey** to strengt
 └── Become a skilled Full-Stack Developer
 
 
-📊 GitHub Statistics
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Vabie-KheiChai&show_icons=true&theme=default&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vabie-KheiChai&layout=compact&hide_border=true" /> </p>
-🔥 GitHub Streak
-<p align="center"> <img src="https://streak-stats.demolab.com?user=Vabie-KheiChai&hide_border=true" /> </p>
+
 💡 What I'm Learning
 Area	Current Focus
 ☕ Programming	Java
